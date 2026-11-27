@@ -1,0 +1,21 @@
+
+# Python Chatbot
+
+## Project Description
+This is a simple rule-based chatbot
+created using Python.
+
+## Features
+- Greets users
+- Answers simple questions
+- Responds to hello and hi
+- Exits when user types bye
+
+## Technology Used
+- Python
+
+## Internship
+CodeAlpha Python Programming Internship
+
+## How to Run
+Run the chatbot.py file using Python.
